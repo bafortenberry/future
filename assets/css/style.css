@@ -988,6 +988,8 @@ h6 {
 
 .container.full {
 	max-width: 100%;
+	width: 100%;
+	height: auto;
 }
 
 .container.small {
