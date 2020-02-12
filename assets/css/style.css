@@ -5832,7 +5832,7 @@ button.mfp-close {
 .slide-bg {
 	position: absolute;
 	width: 50%;
-	height: 100%;
+	height: auto;
 	left: 0;
 	top: 0;
 	background-size: cover;
